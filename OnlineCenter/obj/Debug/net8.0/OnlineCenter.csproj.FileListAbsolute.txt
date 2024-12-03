@@ -894,3 +894,4 @@ C:\Users\hp\Downloads\projectonlinecenter-main\projectonlinecenter-main\OnlineCe
 C:\Users\hp\Downloads\projectonlinecenter-main\projectonlinecenter-main\OnlineCenter\obj\Debug\net8.0\OnlineCenter.pdb
 C:\Users\hp\Downloads\projectonlinecenter-main\projectonlinecenter-main\OnlineCenter\obj\Debug\net8.0\OnlineCenter.genruntimeconfig.cache
 C:\Users\hp\Downloads\projectonlinecenter-main\projectonlinecenter-main\OnlineCenter\obj\Debug\net8.0\ref\OnlineCenter.dll
+C:\Users\hp\Downloads\projectonlinecenter-main\projectonlinecenter-main\OnlineCenter\obj\Debug\net8.0\OnlineCenter.sourcelink.json
